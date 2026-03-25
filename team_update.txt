@@ -1,0 +1,14 @@
+Team Update - Project Alpha
+Date: 25 March 2026
+From: Sarah Chen, Project Lead
+
+Status: On track for Q2 delivery
+Budget: 15% under forecast
+Blockers: Awaiting sign-off from compliance on data handling procedures
+
+Action items:
+1. Request compliance sign-off - urgent
+2. Schedule team review for Friday
+3. Update stakeholder report
+
+Please action and respond to all team members and copy in the board.

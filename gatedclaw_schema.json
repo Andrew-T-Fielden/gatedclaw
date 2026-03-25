@@ -1,0 +1,25 @@
+{
+  "agent": {
+    "name": "Project Team Assistant",
+    "role": "Internal project coordination support",
+    "version": "1.0"
+  },
+  "authorised": {
+    "read_files": true,
+    "write_to_outbox": true,
+    "internal_scheduling": true,
+    "internal_calendar_invites": true,
+    "draft_documents": true
+  },
+  "requires_review": {
+    "compliance_actions": true,
+    "urgent_escalations": true,
+    "stakeholder_reports": true
+  },
+  "not_authorised": {
+    "external_email": true,
+    "board_communications": true,
+    "financial_actions": true,
+    "system_commands": true
+  }
+}
